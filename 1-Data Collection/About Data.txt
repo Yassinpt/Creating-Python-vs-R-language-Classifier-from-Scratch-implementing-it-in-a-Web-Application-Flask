@@ -1,4 +1,5 @@
 This Data Set is taken from StackOverFlow Using Web Scraping Techniques (with BeautifulSoup(Python)),which contains posts talking about Python and posts talking About R Language.
+
 Here is a data dictionary for the columns in the CSV files:
 -post : a text(not code) 
 -python or r : this post is talking about Python or R language. 
@@ -6,7 +7,7 @@ Here is a data dictionary for the columns in the CSV files:
 Example from data set : 
 "I have a .csv file, and I need to do what follows: for each line, starting from the end of the line, the text that occurs after a certain number of occurrences of a specified character should be enclosed in quotation marks.I'll try and make myself clearer with an example. Consider the following line of a csv:I want to enclose in quotation marks the slice of the line which occurs, starting from the end, after the fourth occurrence of a comma. So, it should become:I'd like to do it in bash, pure python, or pandas.",python
 
-You can find this data set in the file: Data_Posts_StackOverFlow.rar
+You can find this data set in the file at this link : https://www.mediafire.com/file/i18o787ds3a71e8/Data_Posts_StackOverFlow.rar/file
 this data set contains  349534 rows (some csv files have a blank row between 2 rows)
 
  number of python's posts  = 170797      (with duplicates,there are 174864 posts of python )

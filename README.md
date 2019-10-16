@@ -1,0 +1,2 @@
+# Creating-Python-vs-R-language-Classifier-from-Scratch-implementing-it-in-a-Web-Application-Flask-
+This Project was realized in 3 steps : first, we had collected data ourselves using Web Scraping. Second,after had been doing the preprocessing for the data collected, we made a Python vs R language Classifier using Naive Bayes Model and Some functionalities of NLP(NLTK).Finally, this Classifier has implemented in a Web Application Using Flask a micro web framework written in Python.

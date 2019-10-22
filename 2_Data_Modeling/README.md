@@ -1,0 +1,2 @@
+if you want to retrain the model yourself you must extract the Data_Python and Data_R from Data_Posts_StackOverFlow.rar and you put them in the folder Data_Posts_StackOverFlow.
+else we had trained this model in a object which is pickled in byte file (my_pickle).
